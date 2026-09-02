@@ -140,7 +140,7 @@ Document Findings
 ## 🚀 How to Run the Project   
 
 Step 1 – Clone the Repository
-git clone <YOUR-GITHUB-REPOSITORY-URL>
+git clone <https://github.com/navyashreer1205/IRIS-DATASET-EXPLORATORY-DATA-ANALYSIS>
 Step 2 – Navigate to the Project
 cd "AIML INTERNSHIP"
 Step 3 – Create Virtual Environment
